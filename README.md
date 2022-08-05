@@ -10,7 +10,7 @@
 ### Team
 - Падалка Марія	MariaPadalka
 - Зеленько Ірина	RenaZet
-- Гатала Олена	Olena56
+- Гатала Олена	OlenaHatala
 - Масник Анастасія	mnnastia
 - Шафран Олена	olenashafran
 - Ростик Стець	RostykStets
